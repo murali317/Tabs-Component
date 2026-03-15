@@ -4,7 +4,7 @@ import ParentTabs from "./ParentTabs";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello theereeeee</h1>
+      <h1>Tabs Component</h1>
       <div className="inner flex red">
         <ParentTabs />
       </div>

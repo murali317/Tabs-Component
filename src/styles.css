@@ -2,3 +2,26 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.container {
+  padding: 10px;
+  border: 2px solid;
+}
+
+.active {
+  background-color: red;
+  color: white;
+  font-weight: 800;
+  border-radius: 10%;
+  box-shadow: 2px 2px 2px blue;
+  border-color: blue;
+}
+
+.buttons-class {
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.content-class {
+  margin: 10px;
+}
